@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070914"/><stop offset="1" stop-color="#120a2a"/></linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#20a4ff"/><stop offset=".55" stop-color="#5b6cff"/><stop offset="1" stop-color="#a77bff"/></linearGradient>
+    <radialGradient id="o1" cx=".85" cy=".1" r=".6"><stop offset="0" stop-color="#1d4ed8" stop-opacity=".55"/><stop offset="1" stop-color="#1d4ed8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2" cx=".1" cy="1" r=".6"><stop offset="0" stop-color="#7c3aed" stop-opacity=".5"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#o1)"/><rect width="1200" height="360" rx="28" fill="url(#o2)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#d)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#fff" stroke-opacity=".08"/>
+  <g transform="translate(110 110)">
+    <rect width="140" height="140" rx="34" fill="url(#t)"/>
+    <text x="70" y="94" text-anchor="middle" font-family="Arial Black,Arial,Helvetica,sans-serif" font-weight="900" font-size="64" fill="#fff" letter-spacing="-3">SJ</text>
+  </g>
+  <text x="300" y="175" font-family="Arial Black,Arial,Helvetica,sans-serif" font-weight="900" font-size="76" fill="url(#t)" letter-spacing="-1">Super JinX</text>
+  <text x="304" y="222" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#c7cde3" letter-spacing="3">RESELLER PANEL  ·  ONE-CLICK RAILWAY DEPLOY</text>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#e8ebf7" font-weight="700">
+    <rect x="304" y="250" width="132" height="34" rx="17" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".12"/><text x="370" y="272" text-anchor="middle">PasarGuard</text>
+    <rect x="448" y="250" width="92" height="34" rx="17" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".12"/><text x="494" y="272" text-anchor="middle">Xray</text>
+    <rect x="552" y="250" width="112" height="34" rx="17" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".12"/><text x="608" y="272" text-anchor="middle">Railway</text>
+    <rect x="676" y="250" width="120" height="34" rx="17" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".12"/><text x="736" y="272" text-anchor="middle">X4G × JinX</text>
+  </g>
+</svg>
